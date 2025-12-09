@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "ナイト・オブ・ナイツ",
+  "base_artist": "ビートまりお",
+  "createdAt": "2025-12-09T06:42:30.652529Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ナイト・オブ・ナイツ (tpz Overheat Remix)",
+      "artist": "t+pazolite(C.H.S) / beatMARIO",
+      "has_synced": false,
+      "path": "select/01_ナイト・オブ・ナイツ_(tpz_Overheat_Remix)_t+pazolite(C.H.S)___beatMARIO.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ナイト・オブ・ナイツ feat. 抹×築山さえ (Amateras Records Remix)",
+      "artist": "COOL&CREATE",
+      "has_synced": true,
+      "path": "select/02_ナイト・オブ・ナイツ_feat._抹×築山さえ_(Amateras_Records_Remix)_COOL&CREATE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ナイト・オブ・ナイツ (feat. ｙｔｒ) - TOS Remix",
+      "artist": "魂音泉",
+      "has_synced": true,
+      "path": "select/03_ナイト・オブ・ナイツ_(feat._ytr)_-_TOS_Remix_魂音泉.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ナイト・オブ・ナイツ",
+      "artist": "t+pazolite (C.H.S)",
+      "has_synced": false,
+      "path": "select/04_ナイト・オブ・ナイツ_t+pazolite_(C.H.S).txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ナイト・オブ・ナイツ 豚乙女ver.",
+      "artist": "豚乙女",
+      "has_synced": false,
+      "path": "select/05_ナイト・オブ・ナイツ_豚乙女ver._豚乙女.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ナイト・オブ・ナイツ - TOS Remix",
+      "artist": "魂音泉 feat. ytr",
+      "has_synced": false,
+      "path": "select/06_ナイト・オブ・ナイツ_-_TOS_Remix_魂音泉_feat._ytr.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ナイト・オブ・ナイツ (tpz Overheat Remix)",
+      "artist": "t+pazolite (C.H.S)",
+      "has_synced": false,
+      "path": "select/07_ナイト・オブ・ナイツ_(tpz_Overheat_Remix)_t+pazolite_(C.H.S).txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ナイト・オブ・ナイツ",
+      "artist": "Amateras Records feat. 抹 a.k.a ナンブヒトシ×築山さえ",
+      "has_synced": true,
+      "path": "select/08_ナイト・オブ・ナイツ_Amateras_Records_feat._抹_a.k.a_ナンブヒトシ×築山さえ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ナイト・オブ・ナイツ",
+      "artist": "Amateras Records",
+      "has_synced": true,
+      "path": "select/09_ナイト・オブ・ナイツ_Amateras_Records.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ナイト・オブ・ナイツ (Amateras Records Remix)",
+      "artist": "ビートまりお Feat.抹x 築山さえ",
+      "has_synced": false,
+      "path": "select/pl_01_ナイト・オブ・ナイツ_(Amateras_Records_Remix)_ビートまりお_Feat.抹x_築山さえ.txt"
+    }
+  ]
+}
